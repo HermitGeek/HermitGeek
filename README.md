@@ -20,7 +20,7 @@
 
 
 <h4 align="center">
-<code><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zx-hermit&show_icons=true&theme=tokyonight&include_all_commits=true"/></code>
+<code><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HermitGeek&show_icons=true&theme=tokyonight&include_all_commits=true"/></code>
 
 </h4>
 
